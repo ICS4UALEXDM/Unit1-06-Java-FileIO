@@ -1,0 +1,8 @@
+36
+Error: Empty line
+-24
+222
+0
+Error: IMMACULATA NAN.
+Error: Mort NAN.
+83
